@@ -14,26 +14,28 @@
             "url": "https://cendanaresort.com/standard-room.html",
             "title": "Standard Room",
             "content_html": "<div class=\"gallery-wrapper gallery-wrapper--wide\"><div class=\"gallery\"  data-is-empty=\"false\" data-columns=\"2\">\n<figure class=\"gallery__item\"><a href=\"https://cendanaresort.com/media/posts/5/gallery/cendana-288.jpg\" data-size=\"1600x1067\"><img loading=\"lazy\" src=\"https://cendanaresort.com/media/posts/5/gallery/cendana-288-thumbnail.jpg\" alt=\"\" width=\"720\" height=\"480\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://cendanaresort.com/media/posts/5/gallery/DSC00025.jpg\" data-size=\"1600x1067\"><img loading=\"lazy\" src=\"https://cendanaresort.com/media/posts/5/gallery/DSC00025-thumbnail.jpg\" alt=\"\" width=\"720\" height=\"480\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://cendanaresort.com/media/posts/5/gallery/DSC00066.jpg\" data-size=\"1600x1067\"><img loading=\"lazy\" src=\"https://cendanaresort.com/media/posts/5/gallery/DSC00066-thumbnail.jpg\" alt=\"\" width=\"720\" height=\"480\"></a></figure>\n</div></div>",
+            "image": "https://cendanaresort.com/media/posts/5/DSC00244.jpg",
             "author": {
                 "name": "Dwi Utari"
             },
             "tags": [
             ],
-            "date_published": "2020-09-08T18:21:46+08:00",
-            "date_modified": "2020-09-08T18:21:46+08:00"
+            "date_published": "2020-09-08T18:24:33+08:00",
+            "date_modified": "2020-09-08T18:24:33+08:00"
         },
         {
             "id": "https://cendanaresort.com/deluxe-room.html",
             "url": "https://cendanaresort.com/deluxe-room.html",
             "title": "Deluxe Room",
             "content_html": "<div class=\"gallery-wrapper gallery-wrapper--wide\"><div class=\"gallery\"  data-is-empty=\"false\" data-columns=\"2\">\n<figure class=\"gallery__item\"><a href=\"https://cendanaresort.com/media/posts/4/gallery/DSC00162.jpg\" data-size=\"1600x1067\"><img loading=\"lazy\" src=\"https://cendanaresort.com/media/posts/4/gallery/DSC00162-thumbnail.jpg\" alt=\"\" width=\"720\" height=\"480\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://cendanaresort.com/media/posts/4/gallery/cendana-271.jpg\" data-size=\"1600x1067\"><img loading=\"lazy\" src=\"https://cendanaresort.com/media/posts/4/gallery/cendana-271-thumbnail.jpg\" alt=\"\" width=\"720\" height=\"480\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://cendanaresort.com/media/posts/4/gallery/DSC00066.jpg\" data-size=\"1600x1067\"><img loading=\"lazy\" src=\"https://cendanaresort.com/media/posts/4/gallery/DSC00066-thumbnail.jpg\" alt=\"\" width=\"720\" height=\"480\"></a></figure>\n</div></div>",
+            "image": "https://cendanaresort.com/media/posts/4/DSC00067.jpg",
             "author": {
                 "name": "Dwi Utari"
             },
             "tags": [
             ],
-            "date_published": "2020-09-08T18:21:46+08:00",
-            "date_modified": "2020-09-08T18:21:46+08:00"
+            "date_published": "2020-09-08T18:24:33+08:00",
+            "date_modified": "2020-09-08T18:24:33+08:00"
         },
         {
             "id": "https://cendanaresort.com/accommodation.html",
@@ -46,8 +48,8 @@
             },
             "tags": [
             ],
-            "date_published": "2020-09-08T18:21:46+08:00",
-            "date_modified": "2020-09-08T18:21:46+08:00"
+            "date_published": "2020-09-08T18:24:33+08:00",
+            "date_modified": "2020-09-08T18:24:33+08:00"
         },
         {
             "id": "https://cendanaresort.com/contact-us.html",
@@ -61,8 +63,8 @@
             },
             "tags": [
             ],
-            "date_published": "2020-09-08T18:21:46+08:00",
-            "date_modified": "2020-09-08T18:21:46+08:00"
+            "date_published": "2020-09-08T18:24:33+08:00",
+            "date_modified": "2020-09-08T18:24:33+08:00"
         },
         {
             "id": "https://cendanaresort.com/ida-ayu-dwi-utari.html",
@@ -76,8 +78,8 @@
             },
             "tags": [
             ],
-            "date_published": "2020-09-08T18:21:46+08:00",
-            "date_modified": "2020-09-08T18:21:46+08:00"
+            "date_published": "2020-09-08T18:24:33+08:00",
+            "date_modified": "2020-09-08T18:24:33+08:00"
         }
     ]
 }
