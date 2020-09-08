@@ -10,6 +10,67 @@
     <id>https://cendanaresort.com</id>
 
     <entry>
+        <title>Standard Room</title>
+        <author>
+            <name>Dwi Utari</name>
+        </author>
+        <link href="https://cendanaresort.com/standard-room.html"/>
+        <id>https://cendanaresort.com/standard-room.html</id>
+
+        <updated>2020-09-08T18:21:46+08:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <div class="gallery-wrapper gallery-wrapper--wide"><div class="gallery"  data-is-empty="false" data-columns="2">
+<figure class="gallery__item"><a href="https://cendanaresort.com/media/posts/5/gallery/cendana-288.jpg" data-size="1600x1067"><img loading="lazy" src="https://cendanaresort.com/media/posts/5/gallery/cendana-288-thumbnail.jpg" alt="" width="720" height="480"></a></figure>
+<figure class="gallery__item"><a href="https://cendanaresort.com/media/posts/5/gallery/DSC00025.jpg" data-size="1600x1067"><img loading="lazy" src="https://cendanaresort.com/media/posts/5/gallery/DSC00025-thumbnail.jpg" alt="" width="720" height="480"></a></figure>
+<figure class="gallery__item"><a href="https://cendanaresort.com/media/posts/5/gallery/DSC00066.jpg" data-size="1600x1067"><img loading="lazy" src="https://cendanaresort.com/media/posts/5/gallery/DSC00066-thumbnail.jpg" alt="" width="720" height="480"></a></figure>
+</div></div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Deluxe Room</title>
+        <author>
+            <name>Dwi Utari</name>
+        </author>
+        <link href="https://cendanaresort.com/deluxe-room.html"/>
+        <id>https://cendanaresort.com/deluxe-room.html</id>
+
+        <updated>2020-09-08T18:21:46+08:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <div class="gallery-wrapper gallery-wrapper--wide"><div class="gallery"  data-is-empty="false" data-columns="2">
+<figure class="gallery__item"><a href="https://cendanaresort.com/media/posts/4/gallery/DSC00162.jpg" data-size="1600x1067"><img loading="lazy" src="https://cendanaresort.com/media/posts/4/gallery/DSC00162-thumbnail.jpg" alt="" width="720" height="480"></a></figure>
+<figure class="gallery__item"><a href="https://cendanaresort.com/media/posts/4/gallery/cendana-271.jpg" data-size="1600x1067"><img loading="lazy" src="https://cendanaresort.com/media/posts/4/gallery/cendana-271-thumbnail.jpg" alt="" width="720" height="480"></a></figure>
+<figure class="gallery__item"><a href="https://cendanaresort.com/media/posts/4/gallery/DSC00066.jpg" data-size="1600x1067"><img loading="lazy" src="https://cendanaresort.com/media/posts/4/gallery/DSC00066-thumbnail.jpg" alt="" width="720" height="480"></a></figure>
+</div></div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Accommodation</title>
+        <author>
+            <name>Dwi Utari</name>
+        </author>
+        <link href="https://cendanaresort.com/accommodation.html"/>
+        <id>https://cendanaresort.com/accommodation.html</id>
+
+        <updated>2020-09-08T18:21:46+08:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://cendanaresort.com/media/posts/3/DSC00244.jpg" alt="" />
+                <div class="gallery-wrapper gallery-wrapper--wide"><div class="gallery"  data-is-empty="false" data-columns="3">
+<figure class="gallery__item"><a href="https://cendanaresort.com/media/posts/3/gallery/DSC00067.jpg" data-size="1600x1067"><img loading="lazy" src="https://cendanaresort.com/media/posts/3/gallery/DSC00067-thumbnail.jpg" alt="" width="720" height="480"></a></figure>
+<figure class="gallery__item"><a href="https://cendanaresort.com/media/posts/3/gallery/DSC00169.jpg" data-size="1600x1067"><img loading="lazy" src="https://cendanaresort.com/media/posts/3/gallery/DSC00169-thumbnail.jpg" alt="" width="720" height="480"></a></figure>
+<figure class="gallery__item"><a href="https://cendanaresort.com/media/posts/3/gallery/DSC09836.jpg" data-size="1600x1067"><img loading="lazy" src="https://cendanaresort.com/media/posts/3/gallery/DSC09836-thumbnail.jpg" alt="" width="720" height="480"></a></figure>
+</div></div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
         <title>Contact Us</title>
         <author>
             <name>Dwi Utari</name>
@@ -17,7 +78,7 @@
         <link href="https://cendanaresort.com/contact-us.html"/>
         <id>https://cendanaresort.com/contact-us.html</id>
 
-        <updated>2020-09-08T18:07:34+08:00</updated>
+        <updated>2020-09-08T18:21:46+08:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://cendanaresort.com/media/posts/2/DSC09588.jpg" alt="" />
@@ -43,7 +104,7 @@
         <link href="https://cendanaresort.com/ida-ayu-dwi-utari.html"/>
         <id>https://cendanaresort.com/ida-ayu-dwi-utari.html</id>
 
-        <updated>2020-09-08T18:07:34+08:00</updated>
+        <updated>2020-09-08T18:21:46+08:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://cendanaresort.com/media/posts/1/cendana-227.jpg" alt="" />
