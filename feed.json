@@ -2,42 +2,42 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Cendana Resort &amp; Spa Ubud",
     "description": "",
-    "home_page_url": "http://cendanaresort.com",
-    "feed_url": "http://cendanaresort.com/feed.json",
+    "home_page_url": "https://cendanaresort.github.io/pages",
+    "feed_url": "https://cendanaresort.github.io/pages/feed.json",
     "user_comment": "",
     "author": {
         "name": "Dwi Utari"
     },
     "items": [
         {
-            "id": "http://cendanaresort.com/contact-us.html",
-            "url": "http://cendanaresort.com/contact-us.html",
+            "id": "https://cendanaresort.github.io/pages/contact-us.html",
+            "url": "https://cendanaresort.github.io/pages/contact-us.html",
             "title": "Contact Us",
             "summary": "Address : Monkey Forest Road, Ubud 80571.P.O.BOX 163 Phone : 62-361-973243, 971928, 971929 Fax : 62-361 - 971930 info@cendanaresort.com www.cendanaresort.com",
             "content_html": "<p>Address :  Monkey Forest Road, Ubud 80571.P.O.BOX 163</p>\n<p>Phone : 62-361-973243, 971928, 971929</p>\n<p>Fax : 62-361 - 971930</p>\n<p><a href=\"mailto:info@cendanaresort.com\">info@cendanaresort.com</a></p>\n<p>www.cendanaresort.com</p>",
-            "image": "http://cendanaresort.com/media/posts/2/DSC09588.jpg",
+            "image": "https://cendanaresort.github.io/pages/media/posts/2/DSC09588.jpg",
             "author": {
                 "name": "Dwi Utari"
             },
             "tags": [
             ],
-            "date_published": "2020-09-08T17:24:18+08:00",
-            "date_modified": "2020-09-08T17:24:18+08:00"
+            "date_published": "2020-09-08T17:27:17+08:00",
+            "date_modified": "2020-09-08T17:27:17+08:00"
         },
         {
-            "id": "http://cendanaresort.com/ida-ayu-dwi-utari.html",
-            "url": "http://cendanaresort.com/ida-ayu-dwi-utari.html",
+            "id": "https://cendanaresort.github.io/pages/ida-ayu-dwi-utari.html",
+            "url": "https://cendanaresort.github.io/pages/ida-ayu-dwi-utari.html",
             "title": "Cendana Resort &amp; Spa Ubud",
             "summary": "Overlooking the beautiful rice fields of Bali, Cendana Resort &amp; Spa provides air-conditioned rooms with traditional Balinese décor and free Wi-Fi. Pampering spa treatments, 2 outdoor pools and free parking are available. The spacious rooms are fitted with a four-poster wooden bed and opens out&hellip;",
-            "content_html": "<p class=\"align-left\">Overlooking the beautiful rice fields of Bali, Cendana Resort &amp; Spa provides air-conditioned rooms with traditional Balinese décor and free Wi-Fi. Pampering spa treatments, 2 outdoor pools and free parking are available.</p>\n<p class=\"align-left\">The spacious rooms are fitted with a four-poster wooden bed and opens out to a private balcony. A TV, minibar and mosquito nets are provided. The en suite bathroom has a bathtub and shower.</p>\n<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"http://cendanaresort.com/media/posts/1/gallery/cendana-227.jpg\" data-size=\"1600x1067\"><img loading=\"lazy\" src=\"http://cendanaresort.com/media/posts/1/gallery/cendana-227-thumbnail.jpg\" alt=\"\" width=\"720\" height=\"480\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"http://cendanaresort.com/media/posts/1/gallery/cendana-229.jpg\" data-size=\"1600x1067\"><img loading=\"lazy\" src=\"http://cendanaresort.com/media/posts/1/gallery/cendana-229-thumbnail.jpg\" alt=\"\" width=\"720\" height=\"480\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"http://cendanaresort.com/media/posts/1/gallery/cendana-237.jpg\" data-size=\"1600x1067\"><img loading=\"lazy\" src=\"http://cendanaresort.com/media/posts/1/gallery/cendana-237-thumbnail.jpg\" alt=\"\" width=\"720\" height=\"480\"></a></figure>\n</div></div>\n<p class=\"align-left\">Cendana Resort &amp; Spa is a short 5-minute walk from the famous Monkey Forest Ubud. It is within a 15-minute walk from Ubud Centre and Puri Lukisan Museum. Ngurah Rai International Airport is an hour's drive away.</p>\n<p class=\"align-left\">Airport transfers and packed lunches are available at an extra charge. The resort also provides laundry services and a 24-hour front desk.</p>\n<p class=\"align-left\">Sun Rise Restaurant serves Indonesian and international cuisines, as well as a daily buffet breakfast. In-room dining is possible with room service.</p>",
-            "image": "http://cendanaresort.com/media/posts/1/cendana-227.jpg",
+            "content_html": "<p class=\"align-left\">Overlooking the beautiful rice fields of Bali, Cendana Resort &amp; Spa provides air-conditioned rooms with traditional Balinese décor and free Wi-Fi. Pampering spa treatments, 2 outdoor pools and free parking are available.</p>\n<p class=\"align-left\">The spacious rooms are fitted with a four-poster wooden bed and opens out to a private balcony. A TV, minibar and mosquito nets are provided. The en suite bathroom has a bathtub and shower.</p>\n<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://cendanaresort.github.io/pages/media/posts/1/gallery/cendana-227.jpg\" data-size=\"1600x1067\"><img loading=\"lazy\" src=\"https://cendanaresort.github.io/pages/media/posts/1/gallery/cendana-227-thumbnail.jpg\" alt=\"\" width=\"720\" height=\"480\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://cendanaresort.github.io/pages/media/posts/1/gallery/cendana-229.jpg\" data-size=\"1600x1067\"><img loading=\"lazy\" src=\"https://cendanaresort.github.io/pages/media/posts/1/gallery/cendana-229-thumbnail.jpg\" alt=\"\" width=\"720\" height=\"480\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://cendanaresort.github.io/pages/media/posts/1/gallery/cendana-237.jpg\" data-size=\"1600x1067\"><img loading=\"lazy\" src=\"https://cendanaresort.github.io/pages/media/posts/1/gallery/cendana-237-thumbnail.jpg\" alt=\"\" width=\"720\" height=\"480\"></a></figure>\n</div></div>\n<p class=\"align-left\">Cendana Resort &amp; Spa is a short 5-minute walk from the famous Monkey Forest Ubud. It is within a 15-minute walk from Ubud Centre and Puri Lukisan Museum. Ngurah Rai International Airport is an hour's drive away.</p>\n<p class=\"align-left\">Airport transfers and packed lunches are available at an extra charge. The resort also provides laundry services and a 24-hour front desk.</p>\n<p class=\"align-left\">Sun Rise Restaurant serves Indonesian and international cuisines, as well as a daily buffet breakfast. In-room dining is possible with room service.</p>",
+            "image": "https://cendanaresort.github.io/pages/media/posts/1/cendana-227.jpg",
             "author": {
                 "name": "Dwi Utari"
             },
             "tags": [
             ],
-            "date_published": "2020-09-08T17:24:18+08:00",
-            "date_modified": "2020-09-08T17:24:18+08:00"
+            "date_published": "2020-09-08T17:27:17+08:00",
+            "date_modified": "2020-09-08T17:27:17+08:00"
         }
     ]
 }
